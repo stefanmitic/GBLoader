@@ -1,5 +1,5 @@
 [package]
-name = "GBLoader"
+name = "gbloader"
 version = "0.1.0"
 authors = ["Stefan Mitic <atimilam@gmail.com>"]
 edition = "2018"
